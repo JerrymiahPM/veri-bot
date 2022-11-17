@@ -1,7 +1,7 @@
 <img src="https://github.com/JerrymiahPM/veri-bot/blob/main/Sun%20coins.gif" width="1000" height="350"/>
 
 # Documentation
-**Download A PDF: SOON**
+**Download A PDF: <a></a>
 
 **Configuration:**
 To config our bot you may use the /config command.  When doing this, the bot will ask you for a configuration type.  There are multiple types ***Age Requirement, Verification Type, Logs Channel, and Verification Location***.  A embed will pop up when selecting a option and sending the command.
